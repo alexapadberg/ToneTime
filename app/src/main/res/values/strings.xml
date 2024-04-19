@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tone Time</string>
+    <string name="greeting">Welcome to Tone Time! </string>
+    <string name="choose_workout">Choose your workout: </string>
+    <string name="back">BACK</string>
+    <string name="arms">ARMS</string>
+    <string name="legs">LEGS</string>
+    <string name="chest"> CHEST </string>
+    <string name="pick_date"> Choose a date </string>
+    <string name="return_home">home</string>
+    <string name="begin_btn">START </string>
+    <string name="time_elapsed">time elapsed: </string>
+    <string name="stop">STOP</string>
+    <string name="workout_hint">Enter workout name: </string>
+    <string name="sets_hint">enter number of sets</string>
+    <string name="reps_hint">reps per set: </string>
+    <string name="weight_hint">weight amount (in lbs): </string>
+    <string name = "great_job">Great Job!</string>
+    <string name ="workout_summary">WORKOUT SUMMARY</string>
+    <string name="sets_of"> number of sets: </string>
+    <string name="weight">weight: </string>
+    <string name="lbs"> lbs/ </string>
+    <string name= "kgs"> kgs</string>
+    <string name="reps_per_set"> reps per set: </string>
+    <string name="weight_in_kgs">weight in kgs: </string>
+    <string name = "workout_name">workout name</string>
+</resources>
